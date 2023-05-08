@@ -13,3 +13,6 @@ C:\Users\Admin\source\repos\MySuperBank\obj\Debug\net6.0\refint\MySuperBank.dll
 C:\Users\Admin\source\repos\MySuperBank\obj\Debug\net6.0\MySuperBank.pdb
 C:\Users\Admin\source\repos\MySuperBank\obj\Debug\net6.0\MySuperBank.genruntimeconfig.cache
 C:\Users\Admin\source\repos\MySuperBank\obj\Debug\net6.0\ref\MySuperBank.dll
+C:\Users\Admin\source\repos\MySuperBank\bin\Debug\net6.0\BankyStuffLibrary.dll
+C:\Users\Admin\source\repos\MySuperBank\bin\Debug\net6.0\BankyStuffLibrary.pdb
+C:\Users\Admin\source\repos\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.CopyComplete

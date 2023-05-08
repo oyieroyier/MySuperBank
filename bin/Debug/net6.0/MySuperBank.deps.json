@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "MySuperBank/1.0.0": {
+        "dependencies": {
+          "BankyStuffLibrary": "1.0.0"
+        },
         "runtime": {
           "MySuperBank.dll": {}
+        }
+      },
+      "BankyStuffLibrary/1.0.0": {
+        "runtime": {
+          "BankyStuffLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MySuperBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankyStuffLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
